@@ -121,3 +121,9 @@
   
   <br/><br/><br/>
 </div>
+
+<br>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=16&center=true&vCenter=true&width=300&height=50&lines=Hy+You+:);I+Am+Aromal+You+Can+Call+Me+Loki+<3">
+</p>
+<br>

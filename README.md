@@ -1,6 +1,4 @@
-<h2 align="center">🕹Xeon's card name🕹</h2>
-
-https://sparkycardview.vercel.app/api?name=乂𝛆𝛐𝛈%20𝛋𝛊¹⁰&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://avatars.githubusercontent.com/u/229757826?v=4?v=4&backgroundColor=%23ecf0f1&instagram=xeonkl10&linkedin=xeonkl10&github=xeonkl10&pattern=leaf&colorPattern=%23eaeaea)
+![Xeon's card name](https://sparkycardview.vercel.app/api?name=乂𝛆𝛐𝛈%20𝛋𝛊¹⁰&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://avatars.githubusercontent.com/u/229757826?v=4?v=4&backgroundColor=%23ecf0f1&instagram=xeonkl10&linkedin=xeonkl10&github=xeonkl10&pattern=leaf&colorPattern=%23eaeaea)
 
 <body>
 <div>

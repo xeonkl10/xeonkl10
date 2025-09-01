@@ -23,6 +23,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/xeonkl10)
 
+  <br><br/>
 <div align="center"> 
   <a href="mailto:orgxeon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&logoWidth=20" />

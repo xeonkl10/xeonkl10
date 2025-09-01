@@ -1,4 +1,4 @@
-![Aswin Sparky's card name](https://sparkycardview.vercel.app/api?name=乂𝛆𝛐𝛈%20𝛋𝛊¹⁰&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://avatars.githubusercontent.com/u/229757826?v=4?v=4&backgroundColor=%23ecf0f1&instagram=xeonkl10&linkedin=xeonkl10&github=xeonkl10&pattern=leaf&colorPattern=%23eaeaea)
+![Xeon's card name](https://sparkycardview.vercel.app/api?name=乂𝛆𝛐𝛈%20𝛋𝛊¹⁰&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://avatars.githubusercontent.com/u/229757826?v=4?v=4&backgroundColor=%23ecf0f1&instagram=xeonkl10&linkedin=xeonkl10&github=xeonkl10&pattern=leaf&colorPattern=%23eaeaea)
 <body>
   <center>
 <h1 align="center"> 乂𝛆𝛐𝛈 𝛋𝛊 ¹⁰ </h1>
@@ -27,7 +27,7 @@
   <a href="mailto:orgxeon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&logoWidth=20" />
   </a>
-  <a href="https://wa.me/91000000000" target="_blank">
+  <a href="https://www.linkedin.com/in/hrithik-xeon-119923381" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://instagram.com/xeonkl10" target="_blank">

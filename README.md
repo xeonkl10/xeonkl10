@@ -33,6 +33,9 @@
   <a href="https://instagram.com/sparky.drip" target="_blank">
      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+   <a href="https://github.com/xeonkl10" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <h2 align="center">🕹️ Build Stack 🕹️</h2>

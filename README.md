@@ -117,13 +117,13 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A-S-W-I-N-S-P-A-R-K-Y/A-S-W-I-N-S-P-A-R-K-Y/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xeonkl10/xeonkl10/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=16&center=true&vCenter=true&width=300&height=50&lines=Hy+You+:);I+Am+Aromal+You+Can+Call+Me+Loki+<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=16&center=true&vCenter=true&width=300&height=50&lines=Hy+You+:);I+Am+Hrithik+You+Can+Call+Me+Xeon+<3">
 </p>
 <br>

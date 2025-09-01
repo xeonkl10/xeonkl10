@@ -156,9 +156,10 @@
 </details>
 </br></br>
 
-
+<hr>
 <br>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=16&center=true&vCenter=true&width=300&height=50&lines=Hy+You+:);I+I+Am+Hrithik+You+Can+Call+Me+Xeon+<3">
 </p>
 <br>
+<hr/>
